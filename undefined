@@ -1,0 +1,104 @@
+<!-- Tutorial Content -->
+<section class="tutorial-section">
+  <!-- Step 1: Prerequisites -->
+  <h2>Step 1: Prerequisites</h2>
+  <p>
+    Before proceeding to purchase a CERT, ensure that you have secured the necessary digital assets. Chrysalis operates on Polygon’s pre Layer 1; therefore, you must acquire POL—the native token required for transaction fees—and hold sufficient USDT on the Polygon network to complete the purchase.
+  </p>
+
+  <!-- Step 2: Accessing the Decentralized Application -->
+  <h2>Step 2: Accessing the Decentralized Application (dApp)</h2>
+  <p>
+    If you encounter a website blocked error upon accessing the dApp, this indicates that Chrysalis does not sell its products in your region. To view the project, you must use a VPN configured to route your IP address to an approved country.
+  </p>
+
+  <!-- Step 3: Dashboard Overview -->
+  <h2>Step 3: Dashboard Overview</h2>
+  <p>
+    Upon successfully accessing the dApp, you will be presented with a dashboard that provides a comprehensive overview of your account activity and notifications. Refer to the figure below for an example of the dashboard interface.
+  </p>
+  <figure>
+    <img src="/Screenshot 2025-02-15 at 8.25.14 PM.png" alt="Dashboard Overview" class="screenshot" />
+    <figcaption>Dashboard Overview</figcaption>
+  </figure>
+
+  <!-- Step 4: Wallet Connection and Verification -->
+  <h2>Step 4: Wallet Connection and Verification</h2>
+  <p>
+    To proceed with the CERT purchase, you must first authenticate your account by connecting your digital wallet and verifying your email. Follow these steps:
+  </p>
+  <ol>
+    <li>
+      <strong>Email Authentication:</strong> Click the profile icon indicated by a red marker to open the email authentication form. Enter your email address to receive a six‐digit verification code. (Check your spam folder if you do not see the code in your inbox.)
+      <figure>
+        <img src="/Screenshot 2025-02-15 at 8.25.14 PM.png" alt="Email Authentication Form" class="screenshot" />
+        <figcaption>Email Authentication Form</figcaption>
+      </figure>
+    </li>
+    <li>
+      <strong>Terms Confirmation:</strong> Review the terms and conditions carefully and confirm by selecting the required checkboxes.
+      <figure>
+        <img src="/Screenshot 2025-02-15 at 8.25.14 PM.png" alt="Terms and Conditions Confirmation" class="screenshot" />
+        <figcaption>Terms and Conditions Confirmation</figcaption>
+      </figure>
+    </li>
+    <li>
+      <strong>Digital Wallet Connection:</strong> Choose your preferred digital wallet from the available options and follow the on-screen instructions, which may include scanning a QR code with your mobile wallet application.
+      <figure>
+        <img src="/Screenshot 2025-02-15 at 8.25.14 PM.png" alt="Digital Wallet Connection Options" class="screenshot" />
+        <figcaption>Digital Wallet Connection Options</figcaption>
+      </figure>
+    </li>
+    <li>
+      <strong>Wallet Verification:</strong> Once your wallet is connected, verify it by entering the six‐digit code sent to your email. Again, verify your spam folder if you do not receive the code promptly.
+      <figure>
+        <img src="/Screenshot 2025-02-15 at 8.25.14 PM.png" alt="Wallet Verification Screen" class="screenshot" />
+        <figcaption>Wallet Verification Screen</figcaption>
+      </figure>
+    </li>
+  </ol>
+
+  <!-- Step 5: CERT Purchase Process -->
+  <h2>Step 5: CERT Purchase Process</h2>
+  <p>
+    Once your wallet has been verified, proceed to the CERT purchase interface. This interface displays several purchase tiers with key metrics:
+  </p>
+  <ul>
+    <li>
+      <strong>Efficiency:</strong> A percentage value that represents the CERT’s token harvesting capability. Higher efficiency results in increased token accumulation.
+    </li>
+    <li>
+      <strong>Multiple:</strong> The replication factor by which your CERT is multiplied during the subsequent phase.
+    </li>
+  </ul>
+  <p>
+    Select the desired purchase tier and quantity, then confirm your selection by clicking the "Checkout Now" button.
+  </p>
+  <figure>
+    <img src="/Screenshot 2025-02-15 at 8.25.14 PM.png" alt="CERT Purchase Interface" class="screenshot" />
+    <figcaption>CERT Purchase Interface</figcaption>
+  </figure>
+
+  <!-- Step 6: Staking Your CERT -->
+  <h2>Step 6: Staking Your CERT</h2>
+  <p>
+    After completing your purchase, navigate to the Stake Tokens section to deposit your newly acquired CERTs and begin earning rewards. Refer to the figure below for an example of the staking interface.
+  </p>
+  <figure>
+    <img src="/Screenshot 2025-02-15 at 8.25.14 PM.png" alt="CERT Staking Interface" class="screenshot" />
+    <figcaption>CERT Staking Interface</figcaption>
+  </figure>
+</section>
+
+<!-- Footer -->
+<footer>
+  <p>
+    <a href="#">Discord</a> | 
+    <a href="#">Twitter</a> | 
+    <a href="#">Blog</a> | 
+    <a href="#">Support</a>
+  </p>
+  <p>2025 Chrysalis &mdash; <a href="#">Terms of Service</a> | <a href="#">Privacy Policy</a></p>
+</footer>
+
+<script type="module" src="/scripts.js"></script>
